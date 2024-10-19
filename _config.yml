@@ -1,0 +1,8 @@
+title: Sparrow Db
+description: >-
+  Very good my site is!
+baseurl: /docs
+url: https://sparrow-db.github.io/
+
+# Build settings
+theme: minima
